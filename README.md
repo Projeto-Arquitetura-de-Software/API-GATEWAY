@@ -9,5 +9,5 @@ Este serviço atua como o Ponto Único de Entrada (`Single Point of Entry`) para
 
 ## Desenvolvidor por
 * Jõao Paulo Paixão
-* Gabriel
+* Gabriel Henrique
 * Victor de Mesquita
